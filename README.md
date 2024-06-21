@@ -34,7 +34,13 @@ This is a simple system that allows students to book a mentoring session with a 
 
 	_**And keep in mind that the refresh and auth tokens will be automatically generate inside the  `src/gmeet/config/token.json` for the first time when you authenticate using your google account**_
 
-  > For reference that how can you get the credentials you can visit - [Google API Console](https://developers.google.com/meet/api/guides/quickstart/nodejs)
+  > For reference that how can you get the credentials you can visit the following link:
+		
+	- [Quickstarter for node.js](https://developers.google.com/meet/api/guides/quickstart/nodejs)
+	- [Google API Console](https://console.developers.google.com/)
+	- [Gmeet github](https://github.com/googleapis/google-cloud-node/tree/main/packages/google-apps-meet)
+	- [Gmeet doc](https://docs.google.com/document/d/1wOffkXVUK38-baNzRLZW85Mt11Q6YhdNS55hTigXh_w/edit#heading=h.og3amnf2dy8)
+
 
 - Install the dependencies using the following command:
 
